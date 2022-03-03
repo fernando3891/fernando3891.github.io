@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"nombre": "Asesoramiento",
+		"descripcion": "Servicio de Asesorammiento técnico en la compra de equipos informaticos",
+		"image": "asesoramiento.png"
+	},
+	{
+		"id": 2,
+		"nombre": "Ensamblado",
+		"descripcion": "Ensamblado de Equipos informaticos a medida y gusto del cliente",
+		"image": "ensamblado.png"
+	},
+	{
+		"id": 3,
+		"nombre": "Mantenimiento",
+		"descripcion": "Servicio de Mantenimiento preventivo y correctivo de Equipo de Escritorio, Portatiles e Impresoras",
+		"image": "mantenimiento.png"
+	},
+	{
+		"id": 4,
+		"nombre": "Redes",
+		"descripcion": "Configuración y estructurado de Redes LAN y VPN",
+		"image": "redes.png"
+	},
+	{
+		"id": 5,
+		"nombre": "Sitios Web",
+		"descripcion": "Creacion de Landingpages, paginas de aterrizaje, tiendas vvirtuaes, Sitios Web completos",
+		"image": "sitiosweb.png"
+	},
+	{
+		"id": 6,
+		"nombre": "Software",
+		"descripcion": "Desarrollo de Aplicaciones para Windows, Aplicaciones para Android y otros",
+		"image": "software.png"
+	}
+]
